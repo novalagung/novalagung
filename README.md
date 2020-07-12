@@ -1,8 +1,8 @@
 Hi, Noval here.
 
-A software architect with 7 years of experiences in software architecture, software engineering, and programming. Experienced remote worker who able to work synchronously or asynchronously in team/solo-based developments.
+A software architect with 7 year of experiences in software architecture, software engineering, and programming. Experienced remote worker who is able to work synchronously or asynchronously, in team-based or solo-based development.
 
-I do lot of stuff behind the scene, such leading the development of more than 15 solutions for various clients around the globe, notable clients: Royal Deutch Shell, Standard Chartered Bank, and Deloitte.
+I do lot of stuff behind the scene, such as leading the development of more than 15 solutions for various clients around the globe, notable clients: Royal Deutch Shell, Standard Chartered Bank, and Deloitte.
 
 Other than that, I also ...
 
