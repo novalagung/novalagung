@@ -1,6 +1,6 @@
 Hi, Noval here.
 
-A software architect with 7 year of experiences in software architecture, software engineering, and programming. Experienced remote worker who is able to work synchronously or asynchronously, in team-based or solo-based development.
+A software architect with 7 year of experiences in designing architecture, software engineering, and programming. A remote worker who is able to work synchronously or asynchronously, in team-based or solo-based development.
 
 I do lot of stuff behind the scene, such as leading the development of more than 15 solutions for various clients across the globe, including one of the biggest drilling company in the world, one of the biggest bank in Singapore, and one of the "Big Four" accounting organization in the world.
 
