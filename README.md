@@ -12,3 +12,5 @@ Other cool stuff from me ...
 - An author of [some iOS apps](https://itunes.apple.com/us/developer/id1163677873) with total download roughly around 4 million installs.
 - An author of [a chrome extension of Indonesian muslim](https://muslimboard.novalagung.com/).
 - ... and lastly, here we go, my Github account 👇
+
+![novalagung github stats](https://github-readme-stats.vercel.app/api?username=novalagung&show_icons=true)
