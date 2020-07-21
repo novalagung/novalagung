@@ -6,7 +6,7 @@ A software architect with 7 years of experience in designing architecture, micro
 
 I did a lot of cool stuff behind the scene 🤫, such as leading the development of more than 15 solutions for various clients across the globe, including one of the biggest drilling company in the world, one of the "Big Four" accounting organization in the world, and one of the biggest banks in Singapore.
 
-Other cool stuff from me ...
+... Nevermind, anyway, here are some other cool stuff from me ...
 
 - [A Stack Overflow top 3% contributor](https://stackoverflow.com/users/1467988/novalagung). Answered hundred of questions there.
 - An author of [Udemy course Fundamental Docker and Kubernetes](https://www.udemy.com/course/praktis-belajar-docker-dan-kubernetes-untuk-pemula/) in Bahasa Indonesia.
