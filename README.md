@@ -4,7 +4,7 @@
 
 A software architect with 7 years of experience in designing architecture, microservice, software engineering, devops, and programming. A remote worker who is able to work synchronously or asynchronously, in team-based or solo-based development.
 
-I did a lot of cool stuff behind the scene, such as leading the development of more than 15 solutions for various clients across the globe, including one of the biggest drilling company in the world, one of the "Big Four" accounting organization in the world, and one of the biggest banks in Singapore.
+I did a lot of cool stuff behind the scene 🤫, such as leading the development of more than 15 solutions for various clients across the globe, including one of the biggest drilling company in the world, one of the "Big Four" accounting organization in the world, and one of the biggest banks in Singapore.
 
 Other cool stuff from me ...
 
