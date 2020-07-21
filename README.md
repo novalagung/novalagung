@@ -6,7 +6,7 @@ A software architect with 7 years of experience in designing architecture, micro
 
 I am an amazing individual, but also a great leader. I have proven to be able to manage multiple teams on separate projects parallelly. My main focus is delivering production-grade solutions that not only solve the problem, but also covers certain engineering aspects such as maintainability, testability, scalability, and even the skill-development of my team members! I care a lot about it. It's my responsibility to ensure everyone who work alongside me are always growing and learning.
 
-I did a lot of cool stuff behind the scene, such as leading the development of more than 15 solutions for various clients across the globe, including one of the biggest drilling company in the world, one of the biggest banks in Singapore, and one of the "Big Four" accounting organization in the world.
+I did a lot of cool stuff behind the scene, such as leading the development of more than 15 solutions for various clients across the globe, including one of the biggest drilling company in the world, one of the "Big Four" accounting organization in the world, and one of the biggest banks in Singapore.
 
 Other cool stuff from me ...
 
