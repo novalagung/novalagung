@@ -15,4 +15,4 @@ Anyway, here are some other cool stuff from me ...
 - Creator of [some Chrome Extensions](https://muslimboard.novalagung.com/).
 - ... and lastly, here we go, my Github account 👇
 
-![novalagung github stats](https://github-readme-stats.vercel.app/api?username=novalagung&show_icons=true)
+<!--- ![novalagung github stats](https://github-readme-stats.vercel.app/api?username=novalagung&show_icons=true) --->
