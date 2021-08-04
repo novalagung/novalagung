@@ -9,7 +9,7 @@
 
 A remote-based software architect & tech lead with 9 years of experience in architecture design & engineering, microservices, and programming.
 
-Here are some cool stuff I crafted during my free time for FOSS community:
+Here are some cool stuff I managed to achieve on the FOSS area:
 
 - [A Stack Overflow top 3% contributor](https://stackoverflow.com/users/1467988/novalagung). Answered hundred of questions there.
 - An author of [Udemy course Fundamental Docker and Kubernetes](https://www.udemy.com/course/praktis-belajar-docker-dan-kubernetes-untuk-pemula/) in Bahasa Indonesia.
