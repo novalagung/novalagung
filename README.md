@@ -18,5 +18,3 @@ Here are some cool stuff I managed to achieve on the FOSS area:
 - Creator of [some iOS apps](https://itunes.apple.com/us/developer/id1163677873) with total download roughly around 4 millions.
 - Creator of [some Browser Extensions](https://muslimboard.novalagung.com/).
 - ... and lastly, here we go, my Github account 👇
-
-Let's talk on caknopal@gmail.com
