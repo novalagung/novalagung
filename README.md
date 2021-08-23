@@ -12,6 +12,7 @@ A remote-based software architect & tech lead with 9 years of experience in arch
 
 Here are some cool stuff I managed to achieve on the FOSS area:
 
+- Contributed to several *cool* open source projects such as [RN BLE Manager](https://git.io/JsmuY), [Torrent Stream](https://git.io/JIsIx), [KrakenD API](https://git.io/JJlfM), [Go SAML](https://git.io/JfvE9), and [others](https://github.com/novalagung/mypullrequests).
 - [A Stack Overflow top 3% contributor](https://stackoverflow.com/users/1467988/novalagung). Answered hundred of questions there.
 - An author of [Udemy course Fundamental Docker and Kubernetes](https://www.udemy.com/course/praktis-belajar-docker-dan-kubernetes-untuk-pemula/) in Bahasa Indonesia.
 - An author of the most famous Indonesian [Go Programming Guide: Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/).
