@@ -8,7 +8,7 @@
 <a href="https://worldofwarcraft.com/en-us/character/us/arthas/Xpare" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxazo3t4biB6FeecDfYURU6xfd0OQOSKO4-1XnanuFASh_Ceqh5wKu233kxK8i4_nZck&usqp=CAU" height="31"></a>
 <!-- &nbsp; <a href="https://www.codementor.io/@novalagung" target="_blank"><img src="https://avatars3.githubusercontent.com/u/7525092?s=280&v=4" height="30"></a>-->
 
-A remote-based software architect & tech lead with 9 years of experience in architecture design & engineering, microservices, and programming.
+A remote-based engineering manager and technical architect with 10 years of experience in engineering management, architecture design, microservices, and programming.
 
 Here are some cool stuff I managed to achieve on the FOSS area:
 
