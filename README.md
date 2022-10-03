@@ -16,7 +16,7 @@ Here are some cool stuff I managed to achieve on the FOSS area:
 - Contributed to several *cool* open source projects such as [RN BLE Manager](https://git.io/JsmuY), [Go SAML](https://git.io/JfvE9), [KrakenD API](https://git.io/JJlfM), [Torrent Stream](https://git.io/JIsIx), and [others](https://github.com/novalagung/mypullrequests).
 - Stack Overflow [top 3% contributor](https://stackoverflow.com/users/1467988/novalagung). Answered hundred of questions there.
 - Author of [Udemy course Fundamental Docker and Kubernetes](https://www.udemy.com/course/praktis-belajar-docker-dan-kubernetes-untuk-pemula/) in Bahasa Indonesia.
-- Author one of the most famous Indonesian [Go Programming Guide: Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/).
+- Author one the widely known Indonesian [Go Programming Guide: Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/).
 - Creator of [some iOS apps](https://itunes.apple.com/us/developer/id1163677873) with total download roughly around 4 millions.
 - Creator of [some Browser Extensions](https://muslimboard.novalagung.com/).
 - ... and lastly, here we go, my Github account 👇
