@@ -13,10 +13,11 @@ A remote-based engineering manager and technical architect with 10 years of expe
 
 Here are some cool stuff I managed to achieve on the FOSS area:
 
-- Contributed to several *cool* open source projects such as [RN BLE Manager](https://git.io/JsmuY), [Go SAML](https://git.io/JfvE9), [KrakenD API](https://git.io/JJlfM), [Torrent Stream](https://git.io/JIsIx), and [others](https://github.com/novalagung/mypullrequests).
-- Stack Overflow [top 3% contributor](https://stackoverflow.com/users/1467988/novalagung). Answered hundred of questions there.
-- Author of [Udemy course Fundamental Docker and Kubernetes](https://www.udemy.com/course/praktis-belajar-docker-dan-kubernetes-untuk-pemula/) in Bahasa Indonesia.
-- Author of the widely known Indonesian Go Programming Guide: [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/).
-- Creator of [several iOS apps](https://itunes.apple.com/us/developer/id1163677873) with total download roughly around 4 millions.
-- Creator of [Muslim Board Browser Extensions](https://muslimboard.novalagung.com/).
+- Contributed to several *cool* [open source projects](https://github.com/novalagung/mypullrequests)
+- Stack Overflow [top 3% contributor](https://stackoverflow.com/users/1467988/novalagung)
+- Author of Udemy course [Fundamental Docker & Kubernetes](https://www.udemy.com/course/praktis-belajar-docker-dan-kubernetes-untuk-pemula/) (bahasa Indonesia)
+- Author of programming blog/ebook [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) (bahasa Indonesia)
+- Author of programming blog/ebook [Dasar Pemrograman Rust](https://dasarpemrogramanrust.novalagung.com/) (bahasa Indonesia)
+- Author of several [iOS apps](https://itunes.apple.com/us/developer/id1163677873) with total download roughly around 4 millions
+- Author of [Muslim Board](https://muslimboard.novalagung.com/) browser extensions
 - ... and lastly, here we go, my Github account 👇
