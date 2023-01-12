@@ -18,6 +18,7 @@ Here are some cool stuff I managed to achieve on the FOSS area:
 - Author of Udemy course [Fundamental Docker & Kubernetes](https://www.udemy.com/course/praktis-belajar-docker-dan-kubernetes-untuk-pemula/) (bahasa Indonesia)
 - Author of programming blog/ebook [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) (bahasa Indonesia)
 - Author of programming blog/ebook [Dasar Pemrograman Rust](https://dasarpemrogramanrust.novalagung.com/) (bahasa Indonesia)
-- Author of several [iOS apps](https://itunes.apple.com/us/developer/id1163677873) with total download roughly around 4 millions
-- Author of [Muslim Board](https://muslimboard.novalagung.com/) browser extensions
+- Author of [Daily Prayers for Muslim](https://apps.apple.com/app/id699398541) iOS app
+- Author of [Kalender Puasa](https://apps.apple.com/app/id796222919) iOS app
+- Author of [Muslim Board](https://muslimboard.novalagung.com/) browser extension
 - ... and lastly, here we go, my Github account 👇
