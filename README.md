@@ -17,7 +17,7 @@ Here are some cool stuff I managed to achieve on the FOSS area:
 
 - Contributed to several *cool* [open source projects](https://github.com/novalagung/mypullrequests)
 - Stack Overflow [top 3% contributor](https://stackoverflow.com/users/1467988/novalagung)
-- Author of Udemy course [Fundamental Docker & Kubernetes](https://www.udemy.com/course/praktis-belajar-docker-dan-kubernetes-untuk-pemula/) (bahasa Indonesia)
+- Author of Udemy course [Fundamental Docker & Kubernetes](https://www.udemy.com/course/praktis-belajar-docker-dan-kubernetes-untuk-pemula/?couponCode=FREE-202302) (bahasa Indonesia)
 - Author of programming blog/ebook [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) (bahasa Indonesia)
 - Author of programming blog/ebook [Dasar Pemrograman Rust](https://dasarpemrogramanrust.novalagung.com/) (bahasa Indonesia)
 - Creator of [Daily Prayers for Muslim](https://apps.apple.com/app/id699398541) iOS app
