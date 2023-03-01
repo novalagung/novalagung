@@ -13,7 +13,7 @@
 
 A remote-based engineering manager and technical architect with 10 years of experience in engineering management, architecture design, microservices, and programming. I'm currently working as CTO at a healthcare startup based in silicon valley.
 
-I created a lot of cool stuff, however, due to the nature of my work, I can't showcase it publicly.<br />Apart from that, here is some cool stuff I managed to achieve in the FOSS area:
+I created a lot of cool projects, however, due to the nature of my work, I can't showcase it publicly.<br />Apart from that, here is some interesting stuff I managed to achieve in the FOSS area:
 
 - Contributed to several *cool* [open source projects](https://github.com/novalagung/mypullrequests)
 - Stack Overflow [top 3% contributor](https://stackoverflow.com/users/1467988/novalagung)
