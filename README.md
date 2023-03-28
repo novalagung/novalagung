@@ -11,7 +11,7 @@
 
 <!-- <a href="https://www.codementor.io/@novalagung" target="_blank"><img src="https://avatars3.githubusercontent.com/u/7525092?s=280&v=4" height="30"></a>-->
 
-A remote-based engineering manager and technical architect with 10 years of experience in engineering management, architecture design, microservices, and programming. I'm currently serving as CTO at a healthcare startup based in Silicon Valley.
+A remote-based engineering manager and technical architect with 11 years of experience in engineering management, architecture design, microservices, and programming. I'm currently serving as CTO at a healthcare startup based in Silicon Valley.
 
 I created a lot of cool projects, however, due to the nature of my work, I can't showcase it publicly.<br />Apart from that, here is some interesting stuff I managed to achieve in the FOSS area:
 
