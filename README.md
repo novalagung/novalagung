@@ -21,6 +21,9 @@
   </a> &nbsp;
   <a href="https://novalagung.substack.com" target="_blank">
     <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/substack-icon.png" height="30">
+  </a> &nbsp;
+  <a href="https://leetcode.com/novalagung" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" height="30">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://psnprofiles.com/novalagung?order=percent" target="_blank">
     <img src="https://e7.pngegg.com/pngimages/24/817/png-clipart-playstation-4-raiders-of-the-broken-planet-playstation-network-playstation-plus-playstation-electronics-text.png" height="31">
