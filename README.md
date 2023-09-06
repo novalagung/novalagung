@@ -20,7 +20,7 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" height="30">
   </a> &nbsp;
   <a href="https://novalagung.substack.com" target="_blank">
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/substack-icon.png" height="30">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg_FATHES6uisiJQcpWYl6aDFwrRKak9UivatzozaB&s" height="30">
   </a> &nbsp;
   <a href="https://leetcode.com/novalagung" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" height="30">
