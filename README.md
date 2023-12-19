@@ -28,7 +28,7 @@
   <a href="https://psnprofiles.com/novalagung?order=percent" target="_blank">
     <img src="https://e7.pngegg.com/pngimages/24/817/png-clipart-playstation-4-raiders-of-the-broken-planet-playstation-network-playstation-plus-playstation-electronics-text.png" height="31">
   </a> &nbsp;
-  <a href="https://worldofwarcraft.com/en-us/character/us/arthas/Xpare" target="_blank">
+  <a href="https://worldofwarcraft.com/en-us/character/us/illidan/Xpare" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxazo3t4biB6FeecDfYURU6xfd0OQOSKO4-1XnanuFASh_Ceqh5wKu233kxK8i4_nZck&usqp=CAU" height="31">
   </a> &nbsp;
   <a href="https://steamcommunity.com/id/novalagung/" target="_blank">
