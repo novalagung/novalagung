@@ -57,4 +57,7 @@ Apart from that, here is some interesting stuff I managed to achieve in the FOSS
 - Creator of browser apps:
   - [Muslim Board](https://muslimboard.novalagung.com/) browser extension
   - [SkeetOverflow](https://github.com/novalagung/skeetoverflow) browser extension
-- ... and lastly, here we go, my Github account 👇
+- ... and lastly, here we go, my GitHub account 
+
+I enabled the [sponsorship program on GitHub account](https://github.com/sponsors/novalagung/dashboard), I appreciate anyone who supports me, and may God repay your kindness with unlimited happiness, good health, and prosperity.
+
