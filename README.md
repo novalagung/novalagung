@@ -39,7 +39,7 @@
 
 A remote-based engineering manager and technical architect with 11 years of experience in engineering management, architecture design, microservices, and programming. I'm currently serving as CTO at a healthcare startup based in Silicon Valley.
 
-I created a lot of cool projects, my creations are used by Fortune 500, Big 4 accounting firms, and Silicon valley based company. However, due to the nature of my work, I can't showcase it publicly.
+I created a lot of cool projects, my creations are used by Fortune 500, Big 4 accounting firms, and many more. However, due to the nature of my work, I can't showcase it publicly.
 
 Apart from that, here is some interesting stuff I managed to achieve in the FOSS area:
 
@@ -59,5 +59,5 @@ Apart from that, here is some interesting stuff I managed to achieve in the FOSS
   - [SkeetOverflow](https://github.com/novalagung/skeetoverflow) browser extension
 - ... and lastly, here we go, my GitHub account 
 
-I enabled the [GitHub Sponsor](https://github.com/sponsors/novalagung/dashboard) program on this account, I appreciate anyone who supports me, and may God repay your kindness with unlimited happiness, good health, and prosperity.
+I enabled the [GitHub Sponsor](https://github.com/sponsors/novalagung/dashboard) program on this account, I appreciate anyone who supports me, and may God repay your kindness with unlimited happiness, good health, and prosperity. As of now, all donations go to charity.
 
