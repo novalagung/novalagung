@@ -39,7 +39,7 @@
 
 A remote-based engineering manager and technical architect with 11 years of experience in engineering management, architecture design, microservices, and programming. I'm currently serving as CTO at a healthcare startup based in Silicon Valley.
 
-I created a lot of cool projects, my creations are used by Fortune 500, Big 4 accounting firms, and many more. However, due to the nature of my work, I can't showcase it publicly.
+I created a lot of cool projects, my creations are used by Fortune 500, Big 4 accounting firms, and many more. However, due to the nature of my work, I can't showcase it publicly, sorry folks 🙌
 
 Apart from that, here is some interesting stuff I managed to achieve in the FOSS area:
 
