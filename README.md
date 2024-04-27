@@ -59,5 +59,5 @@ Apart from that, here is some interesting stuff I managed to achieve in the FOSS
   - [SkeetOverflow](https://github.com/novalagung/skeetoverflow) browser extension
 - ... and lastly, here we go, my GitHub account 
 
-I enabled the [GitHub Sponsor](https://github.com/sponsors/novalagung/dashboard) program on this account, I appreciate anyone who supports me, and may God repay your kindness with unlimited happiness, good health, and prosperity. As of now, all donations will go to charity.
+I enabled the [GitHub Sponsor](https://github.com/sponsors/novalagung) program on this account, I appreciate anyone who supports me, and may God repay your kindness with unlimited happiness, good health, and prosperity. As of now, all donations will go to charity.
 
