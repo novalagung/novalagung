@@ -1,14 +1,14 @@
 ## Hi, Noval here
 
 <p>
+  <a href="https://novalagung.com" target="_blank">
+    <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbf5847d4-6b7a-4c51-95e5-8520ef2a91e5%2F91308693-f3c8-4739-b108-014ec776a09c%2F1741363955792.jpeg/size/w=250?exp=1744216886&sig=DG8_8yJbGIJPQEKWMQo_brGjPh4VEZln2NDH51a83cU&id=1b7dfaed-3ed1-8088-8e01-f2e3e018f39c&table=block" height="30">
+  </a> &nbsp;
   <a href="https://stackoverflow.com/users/1467988/novalagung" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30">
   </a> &nbsp;
-  <a href="https://novalagung.com" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPlfQUyU28M1js62gBXu0--tyKFxsptzGFKEwFuqw4NJW6CcMgwB7jJabTYrdaeyoWbg&usqp=CAU" height="30">
-  </a> &nbsp;
   <a href="https://www.udemy.com/user/noval-agung-prayogo/" target="_blank">
-    <img src="https://seeklogo.com/images/U/udemy-logo-C3D3F5AC0C-seeklogo.com.png" height="30">
+    <img src="https://images.icon-icons.com/2699/PNG/512/udemy_logo_icon_168372.png" height="30">
   </a> &nbsp;
   <a href="https://novalagung.medium.com/" target="_blank">
     <img src="https://i.imgur.com/PxPbQO8.png" height="30">
