@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://novalagung.com" target="_blank">
-    <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbf5847d4-6b7a-4c51-95e5-8520ef2a91e5%2F91308693-f3c8-4739-b108-014ec776a09c%2F1741363955792.jpeg/size/w=250?exp=1744216886&sig=DG8_8yJbGIJPQEKWMQo_brGjPh4VEZln2NDH51a83cU&id=1b7dfaed-3ed1-8088-8e01-f2e3e018f39c&table=block" height="30">
+    <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbf5847d4-6b7a-4c51-95e5-8520ef2a91e5%2F91308693-f3c8-4739-b108-014ec776a09c%2F1741363955792.jpeg/size/w=250?exp=1746544451&sig=udhkLKrj9hyzOiSacs-Kb8YI_wVyN1rTUm-qm9wyfWw&id=1b7dfaed-3ed1-8088-8e01-f2e3e018f39c&table=block" height="30">
   </a> &nbsp;
   <a href="https://stackoverflow.com/users/1467988/novalagung" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30">
@@ -37,7 +37,9 @@
   <!-- <a href="https://www.codementor.io/@novalagung" target="_blank"><img src="https://avatars3.githubusercontent.com/u/7525092?s=280&v=4" height="30"></a>-->
 </p>
 
-A seasoned remote-based engineering leader and practitioner with experience and expertise in engineering management, architecture design, microservices, cybersecurity, and programming. Proven track record of delivering best-in-class solutions globally for Fortune 500 companies, Big Four accounting firms, and Silicon Valley-based startup. 
+A seasoned remote-based engineering leader and practitioner with experience and expertise in engineering management, architecture design, microservices, cybersecurity, and programming.
+
+Proven track record of delivering best-in-class solutions globally for Fortune 500 companies, Big Four accounting firms, and Silicon Valley-based startup. 
 
 Currently serving as CTO at a healthcare startup based in Silicon Valley.
 
