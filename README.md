@@ -37,11 +37,11 @@
   <!-- <a href="https://www.codementor.io/@novalagung" target="_blank"><img src="https://avatars3.githubusercontent.com/u/7525092?s=280&v=4" height="30"></a>-->
 </p>
 
-A seasoned remote-based engineering leader and practitioner with experience and expertise in engineering management, architecture design, microservices, cybersecurity, and programming. Proven track record of delivering best-in-class solutions globally for Fortune 500 companies, Big Four accounting firms, and Silicon Valley-based startup. Currently serving as CTO at a healthcare startup based in Silicon Valley.
+A seasoned remote-based engineering leader and practitioner with experience and expertise in engineering management, architecture design, microservices, cybersecurity, and programming. Proven track record of delivering best-in-class solutions globally for Fortune 500 companies, Big Four accounting firms, and Silicon Valley-based startup. 
 
-I made a lot of cool projects, however due to the nature of my work, I can't showcase them publicly, sorry folks 🙌
+Currently serving as CTO at a healthcare startup based in Silicon Valley.
 
-Anyway, here is some interesting stuff I managed to achieve in the FOSS area:
+I made a lot of cool projects, however due to the nature of my work, I can't showcase them publicly, sorry folks 🙌. Anyway, here is some interesting stuff I managed to achieve in the FOSS area:
 
 - Contributed to several *cool* [open source projects](https://github.com/novalagung/mypullrequests)
 - Stack Overflow [top 3% contributor](https://stackoverflow.com/users/1467988/novalagung)
