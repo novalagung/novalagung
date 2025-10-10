@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://novalagung.com" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4E03AQF1zMSUFKCHwA/profile-displayphoto-shrink_200_200/B4EZVxYUSGGYAc-/0/1741363955775?e=1757548800&v=beta&t=t3CnVLXPHjQXlS4hsrKVDRKCd_9nQF-ZEiH_vIubBSg" height="30">
+    <img src="https://media.licdn.com/dms/image/v2/D4E03AQF1zMSUFKCHwA/profile-displayphoto-shrink_400_400/B4EZVxYUSGGYAk-/0/1741363955775?e=1762992000&v=beta&t=1bDknVVynwDmFL76uba1mmoBrEPgHp-rhZFL5rJdWow" height="30">
   </a> &nbsp;
   <a href="https://stackoverflow.com/users/1467988/novalagung" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30">
@@ -22,7 +22,7 @@
   <a href="https://novalagung.substack.com" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg_FATHES6uisiJQcpWYl6aDFwrRKak9UivatzozaB&s" height="30">
   </a> &nbsp;
-  <a href="https://leetcode.com/novalagung" target="_blank">
+  <!-- <a href="https://leetcode.com/novalagung" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" height="30">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://psnprofiles.com/novalagung?order=percent" target="_blank">
@@ -33,7 +33,7 @@
   </a> &nbsp;
   <a href="https://steamcommunity.com/id/kalipare" target="_blank">
     <img src="https://cdn.onlinewebfonts.com/svg/img_23554.png" height="31">
-  </a>
+  </a>-->
   <!-- <a href="https://www.codementor.io/@novalagung" target="_blank"><img src="https://avatars3.githubusercontent.com/u/7525092?s=280&v=4" height="30"></a>-->
 </p>
 
