@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://novalagung.com" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4E03AQF1zMSUFKCHwA/profile-displayphoto-shrink_400_400/B4EZVxYUSGGYAk-/0/1741363955775?e=1762992000&v=beta&t=1bDknVVynwDmFL76uba1mmoBrEPgHp-rhZFL5rJdWow" height="30">
+    <img src="https://media.licdn.com/dms/image/v2/D4E03AQF1zMSUFKCHwA/profile-displayphoto-shrink_200_200/B4EZVxYUSGGYAc-/0/1741363955775?e=2147483647&v=beta&t=oYc3xaD0msL062ClJzQ595NdjwjxlqqHZac5l0OIgII" height="30">
   </a> &nbsp;
   <a href="https://stackoverflow.com/users/1467988/novalagung" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30">
