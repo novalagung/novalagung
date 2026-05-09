@@ -56,7 +56,9 @@ I made a lot of cool projects, however due to the nature of my work, I can't sho
 - Creator of mobile apps:
   - [Daily Prayers for Muslim](https://apps.apple.com/app/id699398541) iOS app
   - [Kalender Puasa](https://apps.apple.com/app/id796222919) iOS app
-- Creator of browser apps:
-  - [Muslim Board](https://muslimboard.novalagung.com/) browser extension
-  - [SkeetOverflow](https://github.com/novalagung/skeetoverflow) browser extension
+- Creator of browser extension:
+  - [Muslim Board](https://muslimboard.novalagung.com/) - Browser personal dashboard for muslim
+  - [SkeetOverflow](https://github.com/novalagung/skeetoverflow) - StackOverflow but in Jon Skeet's unit
+- Creator of free app:
+  - [Hitung KPR](https://hitungkpr.novalagung.com) - Indonesian Smart Mortgage Simulation Calculator
 - ... and lastly, here we go, my GitHub account 
